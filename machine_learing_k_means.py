@@ -80,4 +80,4 @@ g2.scatter(model.cluster_centers_[:, 0],
             marker='D')
 plt.show()
 
-print(model.predict([[1.5,.3]]))
+# print(model.predict([[1.5,.3]]))
